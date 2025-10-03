@@ -1,0 +1,15 @@
+/Users/rafaelcosta/development/java/todo-list/src/main/java/br/com/rhsc/api/ApiImpl.java
+/Users/rafaelcosta/development/java/todo-list/src/main/java/br/com/rhsc/configuration/Initializer.java
+/Users/rafaelcosta/development/java/todo-list/src/main/java/br/com/rhsc/configuration/JerseyConfig.java
+/Users/rafaelcosta/development/java/todo-list/src/main/java/br/com/rhsc/configuration/PropertiesApplication.java
+/Users/rafaelcosta/development/java/todo-list/src/main/java/br/com/rhsc/controller/MainServlet.java
+/Users/rafaelcosta/development/java/todo-list/src/main/java/br/com/rhsc/dao/BaseDAO.java
+/Users/rafaelcosta/development/java/todo-list/src/main/java/br/com/rhsc/dao/CategoryDAO.java
+/Users/rafaelcosta/development/java/todo-list/src/main/java/br/com/rhsc/dao/CrudRepository.java
+/Users/rafaelcosta/development/java/todo-list/src/main/java/br/com/rhsc/dao/TaskDAO.java
+/Users/rafaelcosta/development/java/todo-list/src/main/java/br/com/rhsc/entity/Category.java
+/Users/rafaelcosta/development/java/todo-list/src/main/java/br/com/rhsc/entity/Task.java
+/Users/rafaelcosta/development/java/todo-list/src/main/java/br/com/rhsc/facade/TaskFacade.java
+/Users/rafaelcosta/development/java/todo-list/src/main/java/br/com/rhsc/util/Enumeradores.java
+/Users/rafaelcosta/development/java/todo-list/src/main/java/br/com/rhsc/util/HibernateUtil.java
+/Users/rafaelcosta/development/java/todo-list/src/main/java/br/com/rhsc/util/ItemUtil.java
