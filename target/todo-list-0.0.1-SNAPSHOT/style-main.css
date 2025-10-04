@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+.div-header {
+	height: 110px;
+	width: 300px;
+	margin: auto;
+	color: red;
+	align-items: center;
+	justify-content: center;
+	display: flex;
+	flex-direction: column;
+	
+	
+	font-family: "Playfair Display", serif;
+	font-optical-sizing: auto;
+	font-weight: <weight>;
+	font-style: normal;
+}
+
+.div-actions {
+	display: flex;
+	height: 10%;
+	width: 80%;
+	margin: auto;
+	color: red;
+	align-items: center;
+	justify-content: space-around;
+	flex-direction: row;
+	padding: 10px 10px;
+}

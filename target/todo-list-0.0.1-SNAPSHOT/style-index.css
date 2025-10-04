@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+.task-container {
+	max-height: 600px; /* ou height: 80vh */
+	overflow: hidden; /* impede que a div principal cresça indefinidamente */
+	padding-top: 10px;
+}
+		  
+.task-column {
+	height: 100%;
+	overflow-y: auto;
+	border: 1px solid #ccc;
+	padding: 10px;
+	min-height: 200px;
+	height: 560px; /* mesma altura que a task-container */
+}
+
+.card-body {
+	margin-bottom: 10px;
+	border: 1px solid #dee2e6;
+	border-radius: 0.6rem;
+	background-color: #f8f9fa;
+	padding: 5px;
+}
+
+.card-detail{
+	cursor: pointer;
+}
+
+.div-action-task{
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	margin: auto;
+	padding: 2px 0px;
+	width: 100%;
+	align-content: center;
+}

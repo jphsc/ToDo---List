@@ -8,7 +8,6 @@ br/com/rhsc/dao/CategoryDAO.class
 br/com/rhsc/configuration/JerseyConfig.class
 br/com/rhsc/controller/MainServlet.class
 br/com/rhsc/util/Enumeradores.class
-br/com/rhsc/util/ItemUtil.class
 br/com/rhsc/facade/TaskFacade.class
 br/com/rhsc/api/ApiImpl.class
 br/com/rhsc/configuration/PropertiesApplication.class
